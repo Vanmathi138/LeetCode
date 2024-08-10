@@ -9,3 +9,5 @@ C
 src/Palindrome.java,8\a\8a362de877f2d67611b5f44595cc41973069aa54
 I
 src/RemoveDuplicates.java,4\b\4b25cf2c20fe5047f5960892fe100cc5565b0303
+I
+src/StringPalindrome.java,1\5\15e3df6782c754c0b471f3e1e856cb61a76fce13
