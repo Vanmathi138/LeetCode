@@ -11,3 +11,5 @@ I
 src/RemoveDuplicates.java,4\b\4b25cf2c20fe5047f5960892fe100cc5565b0303
 I
 src/StringPalindrome.java,1\5\15e3df6782c754c0b471f3e1e856cb61a76fce13
+F
+src/RemoveElement.java,b\4\b47093da76ffa0161c32b3db01977cb046b424d2
