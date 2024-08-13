@@ -1,0 +1,11 @@
+
+„
+java:S1854
+"<Remove this useless assignment to local variable "solution".(ËÊüşÿÿÿÿ8—ƒ½ä”2J$a5320c01-21ed-40ba-a0c9-3b7f06a27e5a
+u
+java:S1481
+"-Remove this unused "solution" local variable.(ËÊüşÿÿÿÿ8¢ƒ½ä”2J$cd37a445-2514-4bc3-af12-bc4469e0a6af
+r	java:S106"+Replace this use of System.out by a logger.(Õíúÿÿÿÿ8•¶ä”2J$65b53ad9-7df2-4103-8386-8688cf01a520
+r	java:S106"+Replace this use of System.out by a logger.(Î¼úªşÿÿÿÿ8•¶ä”2J$c233fab6-6376-4883-9d53-3fb4e22ed1ed
+m	java:S106"+Replace this use of System.out by a logger.(ÍğÛ„8¸ƒ½ä”2J$29748d30-f46f-4ea9-8ceb-b8d1212db4e2
+m	java:S106"+Replace this use of System.out by a logger.(¨´Î¸8ºƒ½ä”2J$d5c6ea44-1b7f-4251-962e-f75dc837095f
