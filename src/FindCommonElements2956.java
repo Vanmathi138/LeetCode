@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class FindCommonElements {
+public class FindCommonElements2956 {
     public static void main(String[] args){
         int[] num1 = {1,2,3,2,3}; //4
         int[] num2 = {2,3,4,5};   //2
