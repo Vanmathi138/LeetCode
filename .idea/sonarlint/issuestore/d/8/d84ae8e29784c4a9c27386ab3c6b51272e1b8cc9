@@ -1,11 +1,9 @@
 
 „
-java:S1854
-"<Remove this useless assignment to local variable "solution".(ËÊüşÿÿÿÿ8—ƒ½ä”2J$a5320c01-21ed-40ba-a0c9-3b7f06a27e5a
+java:S1854"<Remove this useless assignment to local variable "solution".(ËÊüşÿÿÿÿ8ò»ı”2J$6f47d6f5-ca27-478c-afd6-42c0f2556538
 u
-java:S1481
-"-Remove this unused "solution" local variable.(ËÊüşÿÿÿÿ8¢ƒ½ä”2J$cd37a445-2514-4bc3-af12-bc4469e0a6af
-r	java:S106"+Replace this use of System.out by a logger.(Õíúÿÿÿÿ8•¶ä”2J$65b53ad9-7df2-4103-8386-8688cf01a520
-r	java:S106"+Replace this use of System.out by a logger.(Î¼úªşÿÿÿÿ8•¶ä”2J$c233fab6-6376-4883-9d53-3fb4e22ed1ed
-m	java:S106"+Replace this use of System.out by a logger.(ÍğÛ„8¸ƒ½ä”2J$29748d30-f46f-4ea9-8ceb-b8d1212db4e2
-m	java:S106"+Replace this use of System.out by a logger.(¨´Î¸8ºƒ½ä”2J$d5c6ea44-1b7f-4251-962e-f75dc837095f
+java:S1481"-Remove this unused "solution" local variable.(ËÊüşÿÿÿÿ8•ò»ı”2J$441032cb-f410-4f30-aea9-575eeb2d1a91
+r	java:S106"+Replace this use of System.out by a logger.(˜µÊÒÿÿÿÿÿ8—ò»ı”2J$d1cfa63e-bc64-4816-a437-fb491969992c
+m	java:S106"+Replace this use of System.out by a logger.(Ö ì¹8™ò»ı”2J$862309c2-f6fb-40d3-8697-251b28bf6aac
+m	java:S106"+Replace this use of System.out by a logger.(Îà‰8¡ò»ı”2J$57742d18-05cb-4c45-b0af-59d473b678f3
+r	java:S106"+Replace this use of System.out by a logger.(±ş½ÿøÿÿÿÿ8®ò»ı”2J$cf5979aa-dc12-47d1-9c2c-8a349973757f
