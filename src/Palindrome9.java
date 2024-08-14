@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Palindrome {
+public class Palindrome9 {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         System.out.println("enter the value: ");

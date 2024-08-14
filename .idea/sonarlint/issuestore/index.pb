@@ -19,3 +19,7 @@ I
 src/LengthOfLastWord.java,d\8\d84ae8e29784c4a9c27386ab3c6b51272e1b8cc9
 M
 src/ContainsDuplicate217.java,3\2\32b63fd3e2c0de88c947155b1c45d95a86739766
+@
+src/TwoSum1.java,1\b\1b0447bb05dff4205495c1f65545f09dfce25a5b
+D
+src/Palindrome9.java,3\5\35de12e4b36920c70104191fc9fcb6b0dc51c51d
