@@ -1,4 +1,4 @@
-public class LengthOfLastWord {
+public class LengthOfLastWord58 {
     public static int lengthOfLastWord(String s) {
         int lastWordLength = 0;
         boolean foundWord = false;
