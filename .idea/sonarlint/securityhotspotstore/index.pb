@@ -23,3 +23,7 @@ M
 src/TwoSum1.java,1\b\1b0447bb05dff4205495c1f65545f09dfce25a5b
 D
 src/Palindrome9.java,3\5\35de12e4b36920c70104191fc9fcb6b0dc51c51d
+H
+src/RemoveElement27.java,a\7\a7947a201d5191046fd0d6322cf0feb9ea984576
+I
+src/RomanToInteger13.java,6\b\6b96263ead9c390cdd2f14545328829db32c71c9

@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class RomanToInteger {
+public class RomanToInteger13 {
 
     public static int romanToInt(String s) {
         // Map to store Roman numerals and their integer values
