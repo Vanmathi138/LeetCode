@@ -1,0 +1,9 @@
+
+W
+java:S1854"<Remove this useless assignment to local variable "solution".(ËÊüşÿÿÿÿ
+H
+java:S1481"-Remove this unused "solution" local variable.(ËÊüşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(˜µÊÒÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ö ì¹
+@	java:S106"+Replace this use of System.out by a logger.(Îà‰
+E	java:S106"+Replace this use of System.out by a logger.(±ş½ÿøÿÿÿÿ
