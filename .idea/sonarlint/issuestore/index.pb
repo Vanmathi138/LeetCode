@@ -25,3 +25,7 @@ R
 "src/FindIndexOfFirstOccurence.java,7\f\7f9cca633343cccbe0d9a02b2d272dbc14d8ef0a
 S
 #src/FindIndexOfFirstOccurrence.java,b\d\bdf08fa216925043f76ea2be53fa829c07f0e296
+J
+src/ContainsDuplicate.java,e\e\ee4329b8546bc0b5e7f9085a9266be8e561eab13
+E
+src/SingleNumber.java,e\f\ef925695745a897bd2466a833ada5d9ec5257e51
