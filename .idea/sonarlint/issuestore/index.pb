@@ -27,3 +27,5 @@ H
 src/SingleNumber136.java,1\c\1c9098dae74236d69404bd3d6452dc0b81108131
 C
 src/PowerOfTwo.java,9\f\9f8ea48d34fd4737b3fb2fa76416dd6b9e0d035f
+J
+src/ContainsDuplicate.java,e\e\ee4329b8546bc0b5e7f9085a9266be8e561eab13
