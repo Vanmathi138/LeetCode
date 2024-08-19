@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class ContainsDuplicate {
+public class ContainsDuplicate219 {
     public static void main(String[] args) {
         int[] nums1 = {1,2,3,1};
         int k = 3;
