@@ -21,11 +21,7 @@ K
 src/LengthOfLastWord58.java,9\0\903f73833c9e61d78492e8466c385347e5af152c
 L
 src/DivideTwoIntegers29.java,2\2\22b69e853566c44872e499393d292a0ec58fc03f
-R
-"src/FindIndexOfFirstOccurence.java,7\f\7f9cca633343cccbe0d9a02b2d272dbc14d8ef0a
-S
-#src/FindIndexOfFirstOccurrence.java,b\d\bdf08fa216925043f76ea2be53fa829c07f0e296
-J
-src/ContainsDuplicate.java,e\e\ee4329b8546bc0b5e7f9085a9266be8e561eab13
-E
-src/SingleNumber.java,e\f\ef925695745a897bd2466a833ada5d9ec5257e51
+U
+%src/FindIndexOfFirstOccurrence28.java,6\6\665ecdffea0a54fbea984a854de944219fe11c08
+H
+src/SingleNumber136.java,1\c\1c9098dae74236d69404bd3d6452dc0b81108131

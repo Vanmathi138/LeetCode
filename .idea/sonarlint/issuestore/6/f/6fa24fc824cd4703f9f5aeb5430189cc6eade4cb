@@ -1,5 +1,6 @@
 
-@	java:S106"+Replace this use of System.out by a logger.(èÏ¤ş
-@	java:S106
-"+Replace this use of System.out by a logger.(¸ıÇ
-E	java:S106"+Replace this use of System.out by a logger.(ã·Ûúÿÿÿÿ
+m	java:S106"+Replace this use of System.out by a logger.(èÏ¤ş8¥½ñ –2J$9a3c4628-9b94-479a-86db-dfe37d22618f
+m	java:S106"+Replace this use of System.out by a logger.(¸ıÇ8Õ½ñ –2J$26e936d6-a9ae-4001-acb7-ad882e85bf86
+r	java:S106"+Replace this use of System.out by a logger.(ã·Ûúÿÿÿÿ8Ö½ñ –2J$c2ea7cc2-cb8a-484a-9700-556250db8b43
+|
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8ã½ñ –2J$9ff2fa41-ad1b-4f52-9000-f4d50456fd0a
