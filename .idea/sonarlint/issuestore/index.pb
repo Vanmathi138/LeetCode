@@ -25,9 +25,9 @@ U
 %src/FindIndexOfFirstOccurrence28.java,6\6\665ecdffea0a54fbea984a854de944219fe11c08
 H
 src/SingleNumber136.java,1\c\1c9098dae74236d69404bd3d6452dc0b81108131
-C
-src/PowerOfTwo.java,9\f\9f8ea48d34fd4737b3fb2fa76416dd6b9e0d035f
 F
 src/PowerOfTwo231.java,1\d\1d132197b74074182b8fe2b70568c27f3c93c470
 M
 src/ContainsDuplicate219.java,9\3\93dad5a124919478d959bb4c76b569359ffac183
+A
+src/ListNode.java,7\f\7fb9f35bce4f1d1033a2c16c758c5f85012629bc
