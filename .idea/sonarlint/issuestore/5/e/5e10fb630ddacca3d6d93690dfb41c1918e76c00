@@ -1,0 +1,8 @@
+
+{
+java:S2589"8Remove this expression which always evaluates to "false"(þŒÕÙ8û—¤„—2J$66ce73a8-aa56-464a-9f82-27ed9ea45cae
+r	java:S106"+Replace this use of System.out by a logger.(Ôçþƒþÿÿÿÿ8ƒ»ª„—2J$99f8f36a-2737-4ad9-a272-0040cef87e31
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¯˜¤„—2J$cf1b3264-3857-4bb5-991e-6e8e0f2081f4
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8°˜¤„—2J$ecf436c1-80e0-4d1d-a839-360cae2c2d30
