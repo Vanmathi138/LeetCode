@@ -1,17 +1,17 @@
-public class ListNode {
+public class ListNode141 {
     int val;
-    ListNode next;
-    ListNode(int x) {
+    ListNode141 next;
+    ListNode141(int x) {
         val = x;
         next = null;
     }
 
     public static void main(String[] args) {
         // Create nodes
-        ListNode node1 = new ListNode(1);
-        ListNode node2 = new ListNode(2);
-        ListNode node3 = new ListNode(0);
-        ListNode node4 = new ListNode(-4);
+        ListNode141 node1 = new ListNode141(1);
+        ListNode141 node2 = new ListNode141(2);
+        ListNode141 node3 = new ListNode141(0);
+        ListNode141 node4 = new ListNode141(-4);
 
         // Link nodes to form a list: 1 -> 2 -> 0 -> -4
         node1.next = node2;
@@ -37,13 +37,13 @@ public class ListNode {
 }
 
 class ListNodeSolution {
-    public boolean hasCycle(ListNode head) {
+    public boolean hasCycle(ListNode141 head) {
         if (head == null || head.next == null) {
             return false; // If the list is empty or has only one node, no cycle.
         }
 
-        ListNode slow = head;
-        ListNode fast = head.next;
+        ListNode141 slow = head;
+        ListNode141 fast = head.next;
 
         while (slow != fast) {
             if (fast == null || fast.next == null) {
