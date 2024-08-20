@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class LongestCommonPrefix {
+public class LongestCommonPrefix14 {
     public static void main(String[] args) {
         String[] strs = {"flame","flow","fly"};
         String result = longestCommonPrefix(strs);
