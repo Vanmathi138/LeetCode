@@ -31,5 +31,9 @@ M
 src/ContainsDuplicate219.java,9\3\93dad5a124919478d959bb4c76b569359ffac183
 D
 src/ListNode141.java,3\c\3ca323d1c15f7af047e76a796d4af035b8509ea7
-L
-src/LongestCommonPrefix.java,5\e\5e10fb630ddacca3d6d93690dfb41c1918e76c00
+C
+src/UglyNumber.java,7\5\75f67d027d711d00ea9a882965a97a0af98dc88a
+N
+src/LongestCommonPrefix14.java,4\e\4ea1c42adb5548d82d8abb434cced5251cf9a768
+A
+src/FizzBuzz.java,d\4\d46636e305c68b3627a6dba58efd4132a987fe7e
