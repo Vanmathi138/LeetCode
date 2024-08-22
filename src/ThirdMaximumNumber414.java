@@ -1,6 +1,6 @@
 import java.util.TreeSet;
 
-public class ThirdMaximumNumber {
+public class ThirdMaximumNumber414 {
     public static void main(String[] args) {
         int[] nums = {2,1};
         int result = thirdMax(nums);
