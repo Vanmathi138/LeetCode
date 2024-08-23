@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class GenerateParentheses {
+public class GenerateParentheses3210 {
     public static List<String> generateParenthesis(int n) {
         List<String> result = new ArrayList<>();
         backtrack(result, "", 0, 0, n);
