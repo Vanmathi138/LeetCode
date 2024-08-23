@@ -1,4 +1,4 @@
-public class MoveZeros {
+public class MoveZeros283 {
     public static void moveZeroes(int[] nums) {
         int lastNonZeroFoundAt = 0;
 
