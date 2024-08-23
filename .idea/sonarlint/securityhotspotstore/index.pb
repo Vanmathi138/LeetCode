@@ -41,7 +41,9 @@ M
 src/ReverseLinkedList206.java,b\4\b4ec0113eb6dc7eae3366d3794a963f2439719db
 I
 src/MissingNumber268.java,8\a\8a5b93d66f9cceffa6e366388ca0f0a42b6a68f8
-K
-src/ThirdMaximumNumber.java,0\e\0ef24440b9a1bba710344b8c5e5d3f0e6975b513
 N
 src/ThirdMaximumNumber414.java,4\9\49e5e794b428b1a5c8a44e95ad26195c758de8ce
+B
+src/AddString.java,e\d\ed0fc7191ab7300de1bcb8e78f4476b2bad492b8
+B
+src/MoveZeros.java,3\7\377444fdfa64ff0637d0337ad28e5ba329e6c001
