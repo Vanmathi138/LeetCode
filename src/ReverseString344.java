@@ -7,8 +7,8 @@ public class ReverseString344 {
             System.out.print(i + ",");
         }
         System.out.println();
-        //char[] s1 = {'j','a','v','a'};
-        //reverse(s1);
+        char[] s1 = {'j','a','v','a'};
+        reverse(s1);
 
     }
     private static void reverseString(char[] s) {
@@ -23,5 +23,15 @@ public class ReverseString344 {
             right--;
         }
     }
+    private static void reverse(char[] s) {
+        StringBuilder sb = new StringBuilder(new String(s));
+        sb.reverse();
+        char[] reversed = sb.toString().toCharArray();
 
+        // Copy the reversed characters back to the original array
+        for (int i = 0; i < s.length; i++) {
+            s[i] = reversed[i];
+            System.out.print(s[i]+",");
+        }
+    }
 }
