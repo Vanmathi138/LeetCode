@@ -1,7 +1,7 @@
 
 „
-java:S1854"<Remove this useless assignment to local variable "solution".(ËÊüşÿÿÿÿ8¦œÑş—2J$b6ee23e6-8f04-4782-b9ba-c82994b06a58
+java:S1854"<Remove this useless assignment to local variable "solution".(ËÊüşÿÿÿÿ8¦œÑş—2J$a4638162-4746-4ea8-8479-2c3ca4e12e18
 u
-java:S1481"-Remove this unused "solution" local variable.(ËÊüşÿÿÿÿ8¬œÑş—2J$8d1a574c-b8a5-481c-af4d-06009ceb55da
-r	java:S106#"+Replace this use of System.out by a logger.(İğ®êşÿÿÿÿ8€şÍş—2J$09f0d6e8-98bf-4a7c-9d95-ec1fc98cd58e
-r	java:S106%"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ÙÎş—2J$e5866e0b-8dd5-4914-ad86-814ad0d547d6
+java:S1481"-Remove this unused "solution" local variable.(ËÊüşÿÿÿÿ8¬œÑş—2J$864ff09e-d5b7-4be8-a391-d252ae213253
+r	java:S106#"+Replace this use of System.out by a logger.(İğ®êşÿÿÿÿ8€şÍş—2J$24268647-1819-4271-aa46-1fecbefe3364
+r	java:S106%"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ÙÎş—2J$cf111b6f-bd00-453f-8b12-b162393b054a
