@@ -15,7 +15,7 @@ public class Sqrt69 {
             } else {
                 right = mid - 1;  // Search in the left half
             }
-            
+
         }
 
         return result;
