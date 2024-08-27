@@ -1,4 +1,4 @@
-public class Sqrt {
+public class Sqrt69 {
     public static int mySqrt(int x) {
         if (x == 0) return 0;  // Quick return for 0
 
