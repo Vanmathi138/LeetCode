@@ -55,3 +55,5 @@ I
 src/Sqrt69.java,7\d\7d3daf838910a3c10e210938eba45c50186f1bdc
 H
 src/HammingDistance.java,3\5\35ef4ea2ff771a32cd9f248578da093e298d976e
+D
+src/HappyNumber.java,e\1\e17eb7f6b6a5ee1cf673f8ae8be93bfd41da0915
