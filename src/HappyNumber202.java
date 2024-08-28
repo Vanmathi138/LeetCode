@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class HappyNumber {
+public class HappyNumber202 {
     public static void main(String[] args) {
         int n = 19;
         boolean result = ishappyNum(n);
