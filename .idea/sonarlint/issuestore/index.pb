@@ -53,7 +53,9 @@ I
 src/ReverseString344.java,3\a\3a4f8c77bc0d7e93ef959e6b385c98b4cc214921
 ?
 src/Sqrt69.java,7\d\7d3daf838910a3c10e210938eba45c50186f1bdc
-H
-src/HammingDistance.java,3\5\35ef4ea2ff771a32cd9f248578da093e298d976e
-D
-src/HappyNumber.java,e\1\e17eb7f6b6a5ee1cf673f8ae8be93bfd41da0915
+G
+src/HappyNumber202.java,0\6\06844330b45c6b934afafe6647371053663fcc89
+I
+src/SpecialArray3151.java,f\2\f284b0e43fe2fa2073b8e86cf42ab0e40a7a068a
+M
+src/PalindromeLinkedList.java,6\7\677eb6936a8843267c640d39b3d8252a92fa1576

@@ -1,20 +1,19 @@
 class ListNode {
     int val;
     ListNode next;
-    ListNode(int x) {
-        val = x;
-        next = null;
-    }
+    ListNode() {}
+    ListNode(int val) { this.val = val; }
+    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 }
 public class ReverseLinkedList206 {
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
         ListNode curr = head;
         while (curr != null) {
-            ListNode next = curr.next; // Save the next node
+            ListNode temp = curr.next; // Save the next node
             curr.next = prev;          // Reverse the current node's pointer
             prev = curr;               // Move prev to the current node
-            curr = next;               // Move to the next node
+            curr = temp;               // Move to the next node
         }
         return prev; // New head of the reversed list
     }
