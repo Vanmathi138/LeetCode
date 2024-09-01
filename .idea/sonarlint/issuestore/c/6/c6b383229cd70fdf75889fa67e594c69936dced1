@@ -1,3 +1,10 @@
 
-ƒ
-java:S2094"BRemove this empty class, write its code or make it an "interface".(İËÀ‘ùÿÿÿÿJ$70a67d92-6382-4620-858b-c96fd6fa0e03
+c
+java:S1659" Declare "n1" on a separate line.(ö¿Ëå8©èØğš2J$5849f234-3887-44e9-917a-0d59ffc1f11a
+c
+java:S1659 " Declare "n2" on a separate line.(åÊÙ8ªèØğš2J$fd5c00e9-0769-44ea-b08d-161b6db9ab6e
+c
+java:S1659&" Declare "n3" on a separate line.(ªÊŸ¯8«èØğš2J$35963834-2f3e-4407-bd09-29ea23bf53a5
+r	java:S106/"+Replace this use of System.out by a logger.(À»Ø‡úÿÿÿÿ8ëèØğš2J$73d587e8-aac7-4452-b33b-a9357324d42b
+r	java:S1061"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8òèØğš2J$d28152bc-68d1-4fa8-b9f9-be0b0ef4fafd
+r	java:S1063"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ùèØğš2J$3f5ce291-3a44-497b-81b5-8b7dc6126de9
