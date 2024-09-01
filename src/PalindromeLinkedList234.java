@@ -1,4 +1,4 @@
-public class PalindromeLinkedList {
+public class PalindromeLinkedList234 {
     public static ListNode reverse(ListNode head) {
         ListNode prev = null;
         ListNode curr = head;
