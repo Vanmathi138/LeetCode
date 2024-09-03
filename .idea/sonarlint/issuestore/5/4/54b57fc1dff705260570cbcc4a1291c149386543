@@ -1,10 +1,10 @@
 
+[
+java:S1659" Declare "n1" on a separate line.(ŽËÝJ$be90588a-96ad-47c7-ae0b-ee9ebd315065
 \
-java:S1659" Declare "n1" on a separate line.(ö¿ËåJ$3b2d591d-a1d3-41a5-af11-5d2a068a4fed
-\
-java:S1659"" Declare "n2" on a separate line.(žåÊÙJ$3ea8b519-faf5-43ad-9245-3a036142cd22
-\
-java:S1659(" Declare "n3" on a separate line.(ªÊŸ¯J$ddbefad5-63e9-43fa-a48f-e711c65b3d4a
-k	java:S1061"+Replace this use of System.out by a logger.(À»Ø‡úÿÿÿÿJ$e69d6ff7-368e-4d37-a522-7072ae200c4c
-k	java:S1063"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿJ$bd5ff75a-f24b-4521-9bae-bd5a091a0da7
-k	java:S1065"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿJ$94a4d7eb-5d25-41e1-a55a-7c6ac27de4e8
+java:S1659"" Declare "n2" on a separate line.(øÞÏ«J$8a00ff04-d146-4eb6-b652-91e297b4c532
+a
+java:S1659(" Declare "n3" on a separate line.(®Ð§ÇþÿÿÿÿJ$50745ae1-3c34-4d3f-ae84-a9931fb5b6cc
+k	java:S1061"+Replace this use of System.out by a logger.(À»Ø‡úÿÿÿÿJ$fbea6fb1-4880-4648-b001-7431e45d42a7
+k	java:S1063"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿJ$fd8fa258-3eec-411b-bbf7-ded5ddfd5018
+k	java:S1065"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿJ$2edce4b5-2dee-41ee-b5eb-ef127c16d9b6

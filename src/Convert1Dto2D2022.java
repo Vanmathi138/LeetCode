@@ -12,8 +12,8 @@ public class Convert1Dto2D2022 {
 
         // Fill the 2D array
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
+        for (int i = 0; i < m; i++) {//row(2) = 0,1
+            for (int j = 0; j < n; j++) {//column(2) = 0,1
                 result[i][j] = original[i * n + j];
             }
         }
@@ -24,20 +24,20 @@ public class Convert1Dto2D2022 {
     public static void main(String[] args) {
 
         // Example 1
-        int[] original1 = {1, 2, 3, 4};
-        int m1 = 2, n1 = 2;
+        int[] original1 = {1, 2, 3, 4}; //4
+        int m1 = 2, n1 = 2; // 2*2 = 4
         int[][] result1 = construct2DArray(original1, m1, n1);
         print2DArray(result1); // Output: [[1, 2], [3, 4]]
 
         // Example 2
-        int[] original2 = {1, 2, 3};
-        int m2 = 2, n2 = 2;
+        int[] original2 = {1, 2, 3}; //3
+        int m2 = 2, n2 = 2; //4
         int[][] result2 = construct2DArray(original2, m2, n2);
         print2DArray(result2); // Output: []
 
         // Example 3
-        int[] original3 = {1, 2, 3, 4, 5, 6};
-        int m3 = 2, n3 = 3;
+        int[] original3 = {1, 2, 3, 4, 5, 6}; //6
+        int m3 = 2, n3 = 3; // 6
         int[][] result3 = construct2DArray(original3, m3, n3);
         print2DArray(result3); // Output: [[1, 2, 3], [4, 5, 6]]
     }
