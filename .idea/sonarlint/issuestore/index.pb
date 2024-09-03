@@ -63,3 +63,5 @@ J
 src/Convert1Dto2D2022.java,5\4\54b57fc1dff705260570cbcc4a1291c149386543
 B
 src/NewClass1.java,7\e\7e942749827c8c8d6871b94599dfb96a46dc70f5
+Q
+!src/SmallerThanCurrentNumber.java,c\c\cc2449dcc74371798b70758e37310135014e59f3
