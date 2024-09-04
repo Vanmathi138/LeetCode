@@ -63,3 +63,5 @@ J
 src/Convert1Dto2D2022.java,5\4\54b57fc1dff705260570cbcc4a1291c149386543
 Q
 !src/SmallerThanCurrentNumber.java,c\c\cc2449dcc74371798b70758e37310135014e59f3
+E
+src/RotateString.java,0\a\0ae2122227e0e09accab21b7b852fd828720bbad
