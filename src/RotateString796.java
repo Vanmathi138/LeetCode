@@ -1,4 +1,4 @@
-public class RotateString {
+public class RotateString796 {
     public static void main(String[] args) {
         String s = "rose";
         String goal = "eros";
