@@ -67,3 +67,5 @@ E
 src/RotateString.java,0\a\0ae2122227e0e09accab21b7b852fd828720bbad
 H
 src/RotateString796.java,9\0\90256ccee9127f4c94b188f4c6aae56c081c9f2a
+I
+src/NumberOfSegments.java,2\4\242876eb67db6ba6467a9d67cf673f894e8daf40
