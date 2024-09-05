@@ -1,4 +1,4 @@
-public class NumberOfSegments {
+public class NumberOfSegments434 {
     public static int countSegments(String s) {
         if (s == null || s.isEmpty()) {
             return 0;
