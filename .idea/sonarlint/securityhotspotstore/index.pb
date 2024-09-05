@@ -67,3 +67,5 @@ I
 src/NumberOfSegments.java,2\4\242876eb67db6ba6467a9d67cf673f894e8daf40
 J
 src/ReverseWordString.java,c\9\c92762b3a025dd68f91641d5384ccb69c0540c3f
+H
+src/ClearDigits3174.java,6\8\68e8114d05bbe3caa9fcbfc6f115b4e2c35a7daf
