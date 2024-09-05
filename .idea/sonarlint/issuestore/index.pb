@@ -61,10 +61,6 @@ P
  src/PalindromeLinkedList234.java,e\2\e2408eb17040cc7544f35d5bacc8a8f965492b69
 J
 src/Convert1Dto2D2022.java,5\4\54b57fc1dff705260570cbcc4a1291c149386543
-Q
-!src/SmallerThanCurrentNumber.java,c\c\cc2449dcc74371798b70758e37310135014e59f3
-E
-src/RotateString.java,0\a\0ae2122227e0e09accab21b7b852fd828720bbad
 H
 src/RotateString796.java,9\0\90256ccee9127f4c94b188f4c6aae56c081c9f2a
 I

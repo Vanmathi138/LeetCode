@@ -15,5 +15,7 @@ public class RotateString796 {
             if(s.equals(goal)) return true;
         }
         return false;
+        /*String combine = s+s;     // roserose
+        return combine.contains(goal);*/
     }
 }
