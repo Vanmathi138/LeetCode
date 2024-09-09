@@ -67,3 +67,5 @@ H
 src/ClearDigits3174.java,6\8\68e8114d05bbe3caa9fcbfc6f115b4e2c35a7daf
 L
 src/NumberOfSegments434.java,e\c\ec3167738e01230253fa5254a4bd8bcf2cc80601
+F
+src/UnCommonWords.java,c\5\c577b4524702de7cdf76d6323173af6959cdc930
