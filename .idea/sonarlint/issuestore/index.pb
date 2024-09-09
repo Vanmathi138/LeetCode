@@ -71,3 +71,5 @@ I
 src/UnCommonWords884.java,a\2\a227e13fa028b71a1d6db18941e57012ef017940
 D
 src/StringScore.java,3\4\34d99e1eb85f05d899c4bfebe8fb0355243b4523
+K
+src/ValidPerfectSquare.java,4\b\4b7f677129438a02610fba7e912b6453b45f3e8f
