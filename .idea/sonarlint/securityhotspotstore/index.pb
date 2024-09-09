@@ -43,8 +43,6 @@ I
 src/MissingNumber268.java,8\a\8a5b93d66f9cceffa6e366388ca0f0a42b6a68f8
 N
 src/ThirdMaximumNumber414.java,4\9\49e5e794b428b1a5c8a44e95ad26195c758de8ce
-B
-src/AddString.java,e\d\ed0fc7191ab7300de1bcb8e78f4476b2bad492b8
 P
  src/GenerateParentheses3210.java,5\b\5b744904798b53261bb68bdd150ae531c509cdac
 E
@@ -63,9 +61,9 @@ J
 src/Convert1Dto2D2022.java,5\4\54b57fc1dff705260570cbcc4a1291c149386543
 H
 src/RotateString796.java,9\0\90256ccee9127f4c94b188f4c6aae56c081c9f2a
-I
-src/NumberOfSegments.java,2\4\242876eb67db6ba6467a9d67cf673f894e8daf40
 J
 src/ReverseWordString.java,c\9\c92762b3a025dd68f91641d5384ccb69c0540c3f
 H
 src/ClearDigits3174.java,6\8\68e8114d05bbe3caa9fcbfc6f115b4e2c35a7daf
+L
+src/NumberOfSegments434.java,e\c\ec3167738e01230253fa5254a4bd8bcf2cc80601
