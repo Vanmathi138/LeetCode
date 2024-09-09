@@ -1,4 +1,4 @@
-public class StringScore {
+public class StringScore3110 {
     public static int scoreOfString(String s) {
         int totalScore = 0;
 
