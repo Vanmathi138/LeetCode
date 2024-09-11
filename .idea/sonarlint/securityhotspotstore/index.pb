@@ -69,7 +69,9 @@ L
 src/NumberOfSegments434.java,e\c\ec3167738e01230253fa5254a4bd8bcf2cc80601
 I
 src/UnCommonWords884.java,a\2\a227e13fa028b71a1d6db18941e57012ef017940
-D
-src/StringScore.java,3\4\34d99e1eb85f05d899c4bfebe8fb0355243b4523
+N
+src/ValidPerfectSquare367.java,4\d\4d0c6e08dcfc0cf98d582c95eb6d7ae8075c1138
+H
+src/StringScore3110.java,6\1\61dc448ef2149a56bf0c5ab6373514c88f59a799
 K
-src/ValidPerfectSquare.java,4\b\4b7f677129438a02610fba7e912b6453b45f3e8f
+src/ReverseOnlyLetters.java,4\9\49e451c1e0238a7f53fcc3a4523d5d262dcb15e7
