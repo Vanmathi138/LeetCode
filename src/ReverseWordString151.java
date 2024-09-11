@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ReverseWordString {
+public class ReverseWordString151 {
     public static void main(String[] args) {
         String s = "Hello World Java";
         String result = reverse(s);
