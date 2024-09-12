@@ -79,3 +79,5 @@ M
 src/ReverseWordString151.java,d\d\dda3c279f9a7555baa87677cc4a38441679a7436
 P
  src/ReverseVowelOfString345.java,f\8\f8bad8b14b35c95d1cb558993569c29759a160b8
+J
+src/ArrayPartition561.java,5\6\567250e97548d5897bcd3189c451151a7f7401b8
