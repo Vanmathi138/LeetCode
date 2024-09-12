@@ -61,8 +61,6 @@ J
 src/Convert1Dto2D2022.java,5\4\54b57fc1dff705260570cbcc4a1291c149386543
 H
 src/RotateString796.java,9\0\90256ccee9127f4c94b188f4c6aae56c081c9f2a
-J
-src/ReverseWordString.java,c\9\c92762b3a025dd68f91641d5384ccb69c0540c3f
 H
 src/ClearDigits3174.java,6\8\68e8114d05bbe3caa9fcbfc6f115b4e2c35a7daf
 L
@@ -79,3 +77,5 @@ M
 src/DistributeCandies575.java,3\6\36f0407c7355605fa4847879b2b802ec4ea1b72b
 M
 src/ReverseWordString151.java,d\d\dda3c279f9a7555baa87677cc4a38441679a7436
+P
+ src/ReverseVowelOfString345.java,f\8\f8bad8b14b35c95d1cb558993569c29759a160b8
