@@ -1,5 +1,6 @@
 
-}
-java:S1854"5Remove this useless assignment to local variable "s".(ûñ¦Ùüÿÿÿÿ8½¨¹2J$7433bfe7-1ff1-48ab-bbce-514921c23680
-n
-java:S1481"&Remove this unused "s" local variable.(ûñ¦Ùüÿÿÿÿ8Ç¨¹2J$467b692d-8afa-4d88-b88a-b9a6095ba51e
+f
+java:S1659
+"#Declare "right" on a separate line.(÷ûàá8¡²òÙ2J$45678274-113a-467f-93c9-2b7c1b38f705
+m	java:S106'"+Replace this use of System.out by a logger.(ŒøÇ±8Ñ²òÙ2J$a1dbc522-3b7a-47f5-8049-f11f36f92b68
+m	java:S106*"+Replace this use of System.out by a logger.(ŞÛï8ä²òÙ2J$9503c1e0-65ec-400b-9e91-ab736c543011
