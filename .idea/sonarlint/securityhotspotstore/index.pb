@@ -85,3 +85,5 @@ J
 src/CountElements3005.java,7\0\7058e68b5d516f745bb94ed9c27e4841f3b18e75
 I
 src/ReverseString541.java,e\d\ede86be6b4fd63edd2602069a8dccc5bd511a9c6
+F
+src/ShuffleString.java,5\4\545ff41d1b5092003c67f7b3740e36062cd45eee
