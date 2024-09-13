@@ -87,3 +87,5 @@ I
 src/ReverseString541.java,e\d\ede86be6b4fd63edd2602069a8dccc5bd511a9c6
 F
 src/ShuffleString.java,5\4\545ff41d1b5092003c67f7b3740e36062cd45eee
+E
+src/MinimumIndex.java,d\b\db99c8d5c3ddb8c31282a5960c3da234e69c0320
