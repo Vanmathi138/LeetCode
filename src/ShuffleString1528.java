@@ -1,4 +1,4 @@
-public class ShuffleString {
+public class ShuffleString1528 {
     public static String restoreString(String s, int[] indices){
         char[] shuffled = new char[s.length()];
         for (int i = 0; i < s.length(); i++) {
