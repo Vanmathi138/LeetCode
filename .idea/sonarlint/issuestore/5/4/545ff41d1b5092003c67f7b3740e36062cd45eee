@@ -1,9 +1,2 @@
 
-}
-java:S1854"5Remove this useless assignment to local variable "b".(¯¡Ÿ©ûÿÿÿÿ8ªÀÛƒ 2J$7c74d92b-ce20-4148-8100-e3dd028a2dbe
-x
-java:S1854"5Remove this useless assignment to local variable "a".(Êó­Ò8­ÀÛƒ 2J$f0ef2664-1644-4e9a-87b6-98edc632b88a
-i
-java:S1481"&Remove this unused "a" local variable.(Êó­Ò8ÎÀÛƒ 2J$8852ff41-fea3-463d-be15-eadbccba790f
-n
-java:S1481"&Remove this unused "b" local variable.(¯¡Ÿ©ûÿÿÿÿ8ĞÀÛƒ 2J$456bd198-2783-4c49-b04a-e2f6552afdb2
+L	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ÅùÌ„ 2
