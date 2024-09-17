@@ -1,3 +1,9 @@
 
-½
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘J$3ee9ff22-da8b-4965-9f6f-e3fbadb9e870
+W
+java:S1854"5Remove this useless assignment to local variable "b".(¯¡Ÿ©ûÿÿÿÿ8ªÀÛƒ 2
+R
+java:S1854"5Remove this useless assignment to local variable "a".(Êó­Ò8­ÀÛƒ 2
+C
+java:S1481"&Remove this unused "a" local variable.(Êó­Ò8ÎÀÛƒ 2
+H
+java:S1481"&Remove this unused "b" local variable.(¯¡Ÿ©ûÿÿÿÿ8ÐÀÛƒ 2
