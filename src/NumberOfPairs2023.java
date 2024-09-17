@@ -1,17 +1,23 @@
 public class NumberOfPairs2023 {
-    public static String restoreString(String s, int[] indices) {
-        char[] shuffled = new char[s.length()];
-        for (int i = 0; i < s.length(); i++) {
-            shuffled[indices[i]] = s.charAt(i);
-        }
-
-        return new String(shuffled);
+    public static void main(String[] args) {
+        String[] nums = {"777", "7", "77", "77"};
+        String target = "7777";
+        int result = numOfPairs(nums, target);
+        System.out.println(result);  // Output: 2
     }
 
-    public static void main(String[] args) {
-        int[] indices = {3, 1, 2, 0};
-        String s = "code";
-        String result = restoreString(s,indices);
-        System.out.println(result);  // Output: "edoc"
+    private static int numOfPairs(String[] nums, String target) {
+        int count =0;
+        for(int i=0;i<nums.length;i++){
+            for(int j=0;j<nums.length;j++){
+                if(i!=j){
+                    String concat = nums[i] + nums[j];
+                    if(concat.equals(target)){
+                        count++;
+                    }
+                }
+            }
+        }
+        return count ;
     }
 }
