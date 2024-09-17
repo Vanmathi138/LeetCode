@@ -1,3 +1,10 @@
 
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8à•ıà2
+|
+java:S1854!"9Remove this useless assignment to local variable "list2".(Ş–†·8Å…ğ„ 2J$a44add1b-8868-44e8-96bd-0924266158b3
+
+java:S1854 "9Remove this useless assignment to local variable "list1".(îğ¤şÿÿÿÿ8¦Ôò„ 2J$df10dcc1-2018-4a4c-bda9-4386b80fc01f
+r
+java:S1481 "*Remove this unused "list1" local variable.(îğ¤şÿÿÿÿ8«Ôò„ 2J$72747576-71aa-4352-aa32-cb86800be96a
+m
+java:S1481!"*Remove this unused "list2" local variable.(Ş–†·8Ş…ğ„ 2J$acbf1b50-50c8-4765-93ca-54d708b0a603
+r	java:S106""+Replace this use of System.out by a logger.(êˆŞ¡ûÿÿÿÿ8·Ôò„ 2J$fa7bb593-3982-46a2-86cf-c3b1e7eae43e

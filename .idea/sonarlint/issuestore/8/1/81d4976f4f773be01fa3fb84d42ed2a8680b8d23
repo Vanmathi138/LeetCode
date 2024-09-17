@@ -1,0 +1,10 @@
+
+|
+java:S1854!"9Remove this useless assignment to local variable "list2".(Ş–†·8Å…ğ„ 2J$817c82d1-b6d1-4115-85c4-b7ce7ac970d0
+
+java:S1854 "9Remove this useless assignment to local variable "list1".(îğ¤şÿÿÿÿ8¦Ôò„ 2J$8a312567-4cd0-43d2-8bb9-d5b5a936ec8d
+r
+java:S1481 "*Remove this unused "list1" local variable.(îğ¤şÿÿÿÿ8«Ôò„ 2J$adf6465a-d49d-46c9-bc87-7507bd44fb0f
+m
+java:S1481!"*Remove this unused "list2" local variable.(Ş–†·8Ş…ğ„ 2J$937c68b9-c0e1-46ca-b726-4be9d615cc64
+r	java:S106""+Replace this use of System.out by a logger.(êˆŞ¡ûÿÿÿÿ8·Ôò„ 2J$684d9dfa-60af-4163-b563-0c0172d259fd
