@@ -91,3 +91,5 @@ E
 src/MinimumIndex.java,d\b\db99c8d5c3ddb8c31282a5960c3da234e69c0320
 D
 src/Reverse2000.java,2\8\2800b7619b88c73a3c03e11248ad055d0540a0f1
+J
+src/NumberOfPairs2023.java,6\0\603b3721072251f4769ee2085b59bbcf39c485d5
