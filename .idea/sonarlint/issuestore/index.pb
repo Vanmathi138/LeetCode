@@ -85,10 +85,6 @@ J
 src/CountElements3005.java,7\0\7058e68b5d516f745bb94ed9c27e4841f3b18e75
 I
 src/ReverseString541.java,e\d\ede86be6b4fd63edd2602069a8dccc5bd511a9c6
-F
-src/ShuffleString.java,5\4\545ff41d1b5092003c67f7b3740e36062cd45eee
-E
-src/MinimumIndex.java,d\b\db99c8d5c3ddb8c31282a5960c3da234e69c0320
 D
 src/Reverse2000.java,2\8\2800b7619b88c73a3c03e11248ad055d0540a0f1
 J
@@ -97,3 +93,5 @@ H
 src/MinimumIndex599.java,8\1\81d4976f4f773be01fa3fb84d42ed2a8680b8d23
 J
 src/ShuffleString1528.java,c\0\c075a1ff336b04bbf777a281686f5b98ecde8b6e
+L
+src/LastStoneWeight1046.java,6\6\66c76a8204633d18fb604602571846fac2de4c6b
