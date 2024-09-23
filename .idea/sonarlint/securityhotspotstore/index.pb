@@ -97,3 +97,5 @@ L
 src/LastStoneWeight1046.java,6\6\66c76a8204633d18fb604602571846fac2de4c6b
 F
 src/ExcelSheet171.java,7\3\73f9198ce5d0741d10020adf73c1d34d1a9bdc97
+M
+src/RightTrianglePattern.java,0\7\071635c39e1ce5a2cf6c995dab89cab784f30e4e
