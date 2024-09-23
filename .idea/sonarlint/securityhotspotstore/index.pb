@@ -99,3 +99,5 @@ F
 src/ExcelSheet171.java,7\3\73f9198ce5d0741d10020adf73c1d34d1a9bdc97
 M
 src/RightTrianglePattern.java,0\7\071635c39e1ce5a2cf6c995dab89cab784f30e4e
+L
+src/LeftTrianglePattern.java,e\7\e7c7f7904af5091e83dc768ef9901637da2e880c
