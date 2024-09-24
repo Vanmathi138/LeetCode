@@ -19,7 +19,21 @@ public class AddStrings415 {
 
         return result.reverse().toString();
     }
-  
+    public static String reverseString(String n){
+        char[] s = n.toCharArray();
+        int left = 0;
+        int right = n.length()-1;
+
+        while (left < right){
+            char temp = n.charAt(left);
+            s[left] = s[right];
+            s[right]=temp;
+
+            left++;
+            right--;
+        }
+        return new String(s);
+    }
     public static void main(String[] args) {
         String n = "129";
         String m = "12";
