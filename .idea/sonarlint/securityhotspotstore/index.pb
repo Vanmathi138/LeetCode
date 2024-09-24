@@ -103,3 +103,5 @@ G
 src/PyramidPattern.java,0\9\09b835a8520cd5d39b25c2fee92cc448cfb04f47
 L
 src/InvertRightTriangle.java,c\6\c6e64dedff64f1f5ad7229b774e7b582b760ce79
+F
+src/AddStrings415.java,b\a\bad4bd4f39bac97e051190e3cfec598902748fa0
