@@ -1,3 +1,4 @@
 
-~
-java:S2094"BRemove this empty class, write its code or make it an "interface".(Õ½–¸J$e404a23e-2ee7-4446-a531-0814a991f334
+‰
+java:S1126"AReplace this if-then-else statement by a single return statement.(”àŒÊùÿÿÿÿ8×ßÀù¢2J$9ffbea76-3ed7-4855-a634-d2b3c4034c73
+L	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ÏÂù¢2
