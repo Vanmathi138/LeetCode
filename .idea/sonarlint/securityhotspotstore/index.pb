@@ -105,3 +105,5 @@ L
 src/InvertRightTriangle.java,c\6\c6e64dedff64f1f5ad7229b774e7b582b760ce79
 F
 src/AddStrings415.java,b\a\bad4bd4f39bac97e051190e3cfec598902748fa0
+I
+src/KeepMultiply2154.java,4\b\4bcf086e34f747c1de5d1fee597b9aaf0d8e5949
