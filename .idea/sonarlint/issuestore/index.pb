@@ -115,3 +115,5 @@ L
 src/ReplaceElements1299.java,6\a\6ae2eb3a331047f019e43d801df624406c4557c2
 M
 src/RepeatedSubstring459.java,4\0\40e1426219ce3dafd52d3a1c3909f2c9a9d9f4db
+F
+src/SummaryRanges.java,7\b\7b86478a521b41831d62b5d0221b443e9a5827fe
