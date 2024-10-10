@@ -119,3 +119,5 @@ F
 src/SummaryRanges.java,7\b\7b86478a521b41831d62b5d0221b443e9a5827fe
 G
 src/BuddyString859.java,2\8\28d1fbccc32d864963847ef383213b12fbb66d1d
+G
+src/LemonadeChange.java,5\f\5fe59ec20a5c1040ce6d0bd2a80511239d671764
