@@ -1,3 +1,7 @@
 
-d
-java:S2094"BRemove this empty class, write its code or make it an "interface".(¬é¼¨üÿÿÿÿ8¢š§§2
+i
+java:S1659"!Declare "ten" on a separate line.(ó©Ä™úÿÿÿÿ8àúÃ§§2J$4e0b5a4e-9f59-4ce3-8e66-c020e6c587c0
+y
+java:S6880"6Replace the chain of if/else with a switch expression.(¹‰¬»8ëúÃ§§2J$4a84da68-df4f-4c0c-bcd6-17da570516ce
+r	java:S106 "+Replace this use of System.out by a logger.(ÀÅïöúÿÿÿÿ8°ûÃ§§2J$8dde2d2e-5ea6-42ea-aeb6-c47fbe2a0c76
+m	java:S106!"+Replace this use of System.out by a logger.(¢ã—˜8ïÄ§§2J$cdfd6f48-0e57-494f-887c-aff50bcdf034
