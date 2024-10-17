@@ -1,3 +1,4 @@
 
-X
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ß³Å£
+
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(Ì·ââıÿÿÿÿ8¹ü—ß¨2J$fb95e45e-1e73-4dd2-825d-e021b42109cd
+r	java:S106	"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ıü—ß¨2J$fef7a729-3a27-4e79-927a-2008f1d53863
