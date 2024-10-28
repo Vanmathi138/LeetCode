@@ -2,6 +2,7 @@ public class NumberOfPairs2023 {
     public static void main(String[] args) {
         String[] nums = {"777", "7", "77", "77"};
         String target = "7777";
+
         int result = numOfPairs(nums, target);
         System.out.println(result);  // Output: 2
     }
