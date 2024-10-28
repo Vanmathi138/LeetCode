@@ -1,9 +1,9 @@
 
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¥¶Í˜8°Ø†§§2
-A
-java:S1659"$Declare "second" on a separate line.(ëÂÑ÷8°Ù†§§2
-F	java:S106)"+Replace this use of System.out by a logger.(©×º98™Ú†§§2
-G	java:S106*"+Replace this use of System.out by a logger.(¡ú¦ô8¨Ú†§§2
-G	java:S106+"+Replace this use of System.out by a logger.(“õ…¢8¸Ú†§§2
-G	java:S106,"+Replace this use of System.out by a logger.(Éö„Ð8ÈÚ†§§2
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¥¶Í˜8°Ø†§§2J$bca5a850-8598-4dbd-b45c-8d8b9a67e365
+g
+java:S1659"$Declare "second" on a separate line.(ëÂÑ÷8°Ù†§§2J$2f45eab9-51a4-451d-b9de-5ec2fb5f842f
+l	java:S106)"+Replace this use of System.out by a logger.(©×º98™Ú†§§2J$efb1f047-2c6c-42fa-8b66-12dade4f177d
+m	java:S106*"+Replace this use of System.out by a logger.(¡ú¦ô8¨Ú†§§2J$2f74df79-c5db-4a58-a390-3d76609c6374
+m	java:S106+"+Replace this use of System.out by a logger.(“õ…¢8¸Ú†§§2J$73e7d588-3cc1-4e48-b741-c37d56a729f0
+m	java:S106,"+Replace this use of System.out by a logger.(Éö„Ð8ÈÚ†§§2J$1f030c2a-df02-4779-a094-7339d64972a3

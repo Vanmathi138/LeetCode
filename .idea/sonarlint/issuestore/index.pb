@@ -125,3 +125,5 @@ J
 src/RankTransform1331.java,2\2\22062b1e9d1a8b80f8c063e5e3920888166fbd56
 Y
 )src/RemovePalindromicSubsequence1332.java,4\3\43ee23f120f2a2684438dcfcb7b8cbbc5ba21e59
+G
+src/CountPairs2006.java,6\5\65a274b8ed3162490648666df5529ca52893696a

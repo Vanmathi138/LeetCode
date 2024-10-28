@@ -1,5 +1,5 @@
 
 ˜
 java:S1149
-"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8÷«¼2J$8f03135a-d66c-40f4-b311-ea8b9e0ecd75
-r	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8¬¼2J$538ad486-ef97-4963-a97d-60bae6839d43
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8üùÊ’¬2J$dcfe466d-7780-4254-97ba-d1da4006de18
+r	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8–úÊ’¬2J$f7eacc83-4275-439b-bf64-3f8151eca82e
