@@ -7,6 +7,7 @@ public class Palindrome9 {
         int x =scan.nextInt();
         System.out.print("Entered Values is: "+x);
         System.out.println();
+
         Solution solution = new Solution();
         boolean a = solution.isPalindrome(x);
         System.out.println(a);
