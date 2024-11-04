@@ -1,12 +1,13 @@
+import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 import java.util.PriorityQueue;
 
 public class LastStoneWeight1046 {
-
     public static void main(String[] args) {
         int[] stones = {2, 7, 4, 1, 8, 1};
+        System.out.println(lastStoneWeight(stones));
 
-        System.out.println(lastStoneWeight(stones)); // Output: 1
     }
 
     private static int lastStoneWeight(int[] stones) {
