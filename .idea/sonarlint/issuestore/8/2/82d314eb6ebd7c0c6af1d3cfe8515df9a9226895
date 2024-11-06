@@ -1,3 +1,5 @@
 
-~
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ßÝÔäJ$2dc5928e-7ac8-4a1b-a538-94ea0e1f38f2
+¡
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(É‹ËÂ8î£²¯¯2J$cc557dea-f416-409a-bfb6-785e11f2dcd2
+m	java:S106"+Replace this use of System.out by a logger.(Å‰ŒØ8ú­²¯¯2J$a2f46ae8-9fe1-47c7-9c34-03290264f882
+L	java:S106"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ8øÂ³¯¯2
