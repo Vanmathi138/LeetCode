@@ -24,7 +24,7 @@ public class DigitGame3232 {
     }
 
     public static void main(String[] args) {
-        int[] nums = {3,14,7,2,3};
+        int[] nums = {5,15,6,25};
         boolean result = canAliceWin(nums);
         System.out.println(result);
     }
