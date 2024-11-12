@@ -13,12 +13,16 @@ interface A{
 
 public class Sample {
     public static void main(String[] args) {
-        A obj = new A(){
+
+        A obj1 = new A(){
             public void display() {
                 System.out.println("This is a Functional Interface");
             }
         };
-        obj.display();
-        System.out.println("Jo");
+        obj1.display();
+
+        A obj2 = () -> System.out.println("lamda expression");
+        obj2.display();
+
     }
 }
