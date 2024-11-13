@@ -7,7 +7,6 @@ public class SummaryRanges {
         if (nums == null || nums.length == 0) {
             return result;
         }
-
         int start = nums[0];
 
         for (int i = 1; i < nums.length; i++) {
@@ -31,9 +30,8 @@ public class SummaryRanges {
 
         return result;
     }
-
     public static void main(String[] args) {
-        int[] nums = {0, 1, 2, 4, 5, 7};
-        System.out.println(summaryRanges(nums));  // Output: [0->2, 4->5, 7]
+        int[] nums = {0,2,3,4,6,8,9};
+        System.out.println(summaryRanges(nums));
     }
 }
