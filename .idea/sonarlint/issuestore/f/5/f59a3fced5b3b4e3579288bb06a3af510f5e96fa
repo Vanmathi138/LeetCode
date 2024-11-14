@@ -1,5 +1,13 @@
 
 p
-java:S1604"(Make this anonymous inner class a lambda(èÃ–üÿÿÿÿ8íµ¾Ï±2J$35e1a396-6710-4199-8549-c1a2f1e2125f
-m	java:S106"+Replace this use of System.out by a logger.(ÌßË¤8Ô¸¾Ï±2J$ebf51a62-6915-4f9e-8797-119a3266da0c
-r	java:S106"+Replace this use of System.out by a logger.(á¹œ¿úÿÿÿÿ8àÀ¾Ï±2J$c627bdfb-529b-4b05-812d-64ff12adc125
+java:S1604"(Make this anonymous inner class a lambda(èÃ–üÿÿÿÿ8áù¡²2J$e52c1795-2292-43a0-950b-16d963811f07
+m	java:S106"+Replace this use of System.out by a logger.(·ìç8‹ù¡²2J$3d5fb43c-d7c6-4568-9bd7-78b5780096bb
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ù¡²2J$05b5a945-9fa0-4cf7-9c36-c7a238d9db0b
+m	java:S106"+Replace this use of System.out by a logger.(ÌßË¤8’ù¡²2J$df54acfe-00cd-4983-8fe5-d4dd9a62b9ba
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8”ù¡²2J$abe08893-a901-498c-9161-f071a4e39491
+r	java:S106 "+Replace this use of System.out by a logger.(á¹œ¿úÿÿÿÿ8ù¡²2J$a84724ff-e8e4-4704-90bd-14fe99eb0e1e
+r	java:S106""+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¢ù¡²2J$b0cf8762-9aa4-4eac-8bfe-1c4fbf257095
+‡
+java:S1612."?Replace this lambda with method reference 'Sample::printNames'.(Éï¥Ãıÿÿÿÿ8©ù¡²2J$d7349991-2cf1-49c1-8496-22a6eb2886e7
+m	java:S1061"+Replace this use of System.out by a logger.(²Ô®ª8Åù¡²2J$787f2224-ce38-4f66-9b82-25a7341e19a0
+ƒ	java:S1256"<This block of commented-out lines of code should be removed.(Ï¸ÖÛúÿÿÿÿ8Èù¡²2J$612b3569-5694-4c4e-9366-e458eb24b019
