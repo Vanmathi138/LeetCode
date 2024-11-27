@@ -23,3 +23,4 @@ public class ArrayPartition561 {
         System.out.println("Output: " + arrayPairSum(nums2));
     }
 }
+
