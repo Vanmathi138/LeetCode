@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.function.Predicate;
 
 @FunctionalInterface
 interface A{
@@ -17,8 +18,15 @@ public class Sample {
     public static void printNames(String a){
         System.out.println("name : "+a );
     }
+    public static boolean age(int a){
+        if(a>18)
+            return true;
+        else return false;
+
+    }
 
     public static void main(String[] args) {
+
         //old method
         System.out.println();
         A obj1 = new A(){
@@ -49,7 +57,12 @@ public class Sample {
         arr.forEach(System.out::println);
         arr.forEach(Sample::printNames);
 
+        //PREDICATE
+        Predicate<Integer> predicate = age -> age>18;
+        System.out.println(predicate.test(45));
     }
+
+
 }
 //for (String names : arr){
 //printNames(names);

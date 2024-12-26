@@ -1,13 +1,18 @@
 
 p
-java:S1604"(Make this anonymous inner class a lambda(èÃ–üÿÿÿÿ8áù¡²2J$4bd16cdd-c885-421c-a6d4-c2963cf8f890
-m	java:S106"+Replace this use of System.out by a logger.(·ìç8‹ù¡²2J$21f52a9e-72a1-4b4c-ab53-37f2141a8171
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ù¡²2J$9d4e5a5a-7dbf-4c99-9570-a201bdeacea1
-m	java:S106"+Replace this use of System.out by a logger.(ÌßË¤8’ù¡²2J$9e96b587-fe5e-4e04-b324-d80e66b56f43
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8”ù¡²2J$a425bf58-eb3c-4fb0-b3e9-39de56acee44
-r	java:S106 "+Replace this use of System.out by a logger.(á¹œ¿úÿÿÿÿ8ù¡²2J$b6202c5b-eb24-463a-89d1-31863df22a5a
-r	java:S106""+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¢ù¡²2J$8cfa4207-7dae-42f3-882a-9f1c71e67c69
+java:S1604 "(Make this anonymous inner class a lambda(èÃ–üÿÿÿÿ8»Î×ñ¼2J$e1ad6cd7-e6d6-44f1-a350-8667ed1dc795
+m	java:S106"+Replace this use of System.out by a logger.(·ìç8òÕ×ñ¼2J$fc8a119b-cb31-4a21-9583-03b6027b65b8
+‰
+java:S1126"AReplace this if-then-else statement by a single return statement.(®¶ñıÿÿÿÿ8²Ö×ñ¼2J$cf3e0a33-3a39-4341-8dcb-d8a86194b3e6
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ŒØ×ñ¼2J$55257a8a-41a2-44d7-9b13-fc2d9cabecce
+m	java:S106""+Replace this use of System.out by a logger.(ÌßË¤8Ø×ñ¼2J$abbf8cda-9739-439b-a7d0-9612ede7fc08
+r	java:S106&"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8’Ø×ñ¼2J$b750ef84-2d3d-4f32-b85f-d4b91646bd68
+r	java:S106("+Replace this use of System.out by a logger.(á¹œ¿úÿÿÿÿ8•Ø×ñ¼2J$5d5d2b51-30f0-4d26-88f9-1b2bd6cc8c56
+r	java:S106*"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8§Ù×ñ¼2J$f9c3916c-8605-4d46-b128-ef0ac464d608
 ‡
-java:S1612."?Replace this lambda with method reference 'Sample::printNames'.(Éï¥Ãıÿÿÿÿ8©ù¡²2J$0e1dd489-f033-44dd-bfef-486ec20afe15
-m	java:S1061"+Replace this use of System.out by a logger.(²Ô®ª8Åù¡²2J$1595793b-8b42-44cc-86a0-61f9850e23a9
-ƒ	java:S1256"<This block of commented-out lines of code should be removed.(Ï¸ÖÛúÿÿÿÿ8Èù¡²2J$55229b6d-06a3-42dd-a094-880ce751c73e
+java:S16126"?Replace this lambda with method reference 'Sample::printNames'.(Éï¥Ãıÿÿÿÿ8£Ù×ñ¼2J$4bc56e38-4f9d-4802-adaa-b691cfc5e3a0
+m	java:S1069"+Replace this use of System.out by a logger.(²Ô®ª8ŸÚ×ñ¼2J$74c7a59a-4ca5-4103-bb28-a694a23c5f8e
+•
+java:S4276="RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(³Æİû8ÁÑØñ¼2J$0663699c-f898-4334-b4ab-ea2eb79e2f5d
+r	java:S106>"+Replace this use of System.out by a logger.(úÜ©ÿÿÿÿÿ8«éÚñ¼2J$6fcf4558-2ca9-47c1-990f-b155e9e0db5b
+ƒ	java:S125C"<This block of commented-out lines of code should be removed.(Ï¸ÖÛúÿÿÿÿ8³Ú×ñ¼2J$41a902de-7f46-4147-b11c-d7001851e901

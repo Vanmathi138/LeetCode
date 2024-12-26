@@ -2,8 +2,9 @@ public class FindIndexOfFirstOccurrence28 {
     public static void main(String[] args){
         String haystack1 = "sadButSad";
         String needle1 = "sad";
+
         String haystack2 = "leetcode";
-        String needle2 = "leets";
+        String needle2 = "let";
 
         int indexOfFirstOccurrence1 = firstOccurrence(haystack1, needle1);
         System.out.println(indexOfFirstOccurrence1);
